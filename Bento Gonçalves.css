@@ -1,0 +1,88 @@
+.container 
+{
+	margin: 0 auto;
+	width: 1440px;
+}
+body
+{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	line-height: 1.6;
+	background-color: #F5DEB3;
+}
+.place
+{
+	border: 2px solid #000000;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #DEB887;
+}
+.place h2 
+{
+	border-bottom: 2px dashed #8B4513;
+	margin: 0 0 10px 0;
+}
+.place a
+{
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+}	
+.place img
+{
+	border: 1px solid #8B4513;
+	float: left;
+	margin: 10px 10 px 0 0;
+	padding: 2px;
+	width: 227px;
+}
+.clear
+{
+	clear: both;
+}
+.texto
+{
+	font-size: 16px;
+	text-align:  center;
+}
+.sidenote
+{
+	background-color: #DEB887;
+	border: 2px solid #000000;
+	padding: 10px;
+	float: right;
+	width: 390px;
+}
+.sidenote a
+{
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+}
+.sidenote h3
+{
+	font-size: 16px;
+	margin-top: 0;
+}
+.sidenote ol
+{
+	font-size: 14px;
+}
+.places
+{
+	float: left;
+	width: 990px;
+}
+.space
+{
+	padding: 10px;
+	float: right;
+	width: 390px;
+}
+.footer
+{
+	font-size: 12px;
+	text-align: center;
+}
